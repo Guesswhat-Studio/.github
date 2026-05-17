@@ -28,6 +28,10 @@ The first public releases happen to be tools. That is not a detour. Some ideas b
 
 我们最先公开的作品碰巧是工具，但这不是偏航。有些灵感会长成游戏，有些会长成工具，还有一些会停在两者之间。我们先相信火花，再用审美和设计把它做成形。
 
+The studio is founder-led and mostly founder-maintained, so the work stays personal, opinionated, and close to actual use.
+
+工作室由创始人主导并主要维护，因此作品会保持个人、明确、有取舍，也贴近真实使用。
+
 ## Now Rolling · 正在掷出
 
 <table>
@@ -93,14 +97,10 @@ The first public releases happen to be tools. That is not a detour. Some ideas b
 >
 > “猜”不是随便乱来，而是给奇怪的想法一次公平的投掷，然后在骰子停下之后认真做设计。
 
-- Play first: even non-game tools should have rhythm, agency, and a sense of discovery.
-- 先考虑可玩性：即使不是游戏，工具也应该有节奏、主动性和发现感。
-- Strong premises: a project starts when an idea has enough spark to survive implementation.
-- 强前提：一个项目开始于某个灵感足够亮，亮到值得被实现。
-- Useful uncertainty: randomness can open the door, but taste decides what stays.
-- 有用的不确定性：随机可以打开门，但留下什么要靠审美。
-- Small systems: clear rules, visible state, good defaults, and escape hatches.
-- 小系统：规则清楚、状态可见、默认好用，也保留退路。
+- **Play first · 先考虑可玩性**: even non-game tools should have rhythm, agency, and discovery. 即使不是游戏，工具也应该有节奏、主动性和发现感。
+- **Strong premises · 强前提**: a project starts when an idea has enough spark to survive implementation. 一个项目开始于某个灵感足够亮，亮到值得被实现。
+- **Useful uncertainty · 有用的不确定性**: randomness can open the door, but taste decides what stays. 随机可以打开门，但留下什么要靠审美。
+- **Small systems · 小系统**: clear rules, visible state, good defaults, and escape hatches. 规则清楚、状态可见、默认好用，也保留退路。
 
 ## Studio Pulse · 工作室脉搏
 
