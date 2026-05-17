@@ -15,7 +15,7 @@
   ·
   <a href="https://github.com/Guesswhat-Studio/Calabash">Calabash</a>
   ·
-  <a href="https://github.com/Guesswhat-Studio/Opsis">Opsis</a>
+  <a href="https://github.com/Guesswhat-Studio/Skills-as-Docs">SkillDocs</a>
   ·
   <a href="https://github.com/sponsors/yuyangxueed">Support</a>
 </p>
@@ -73,20 +73,29 @@ The studio is founder-led and mostly founder-maintained, so the work stays perso
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Guesswhat-Studio/Opsis">Roll 03 · Opsis</a></h3>
-      <p><strong>Small experiments, studio operations, and shell-first prototypes.</strong><br /><strong>小实验、工作室运维，以及从命令行长出来的原型。</strong></p>
-      <p>Opsis is where rough pieces become testable quickly: scripts, automation, release helpers, and smaller studio systems.</p>
-      <p>Opsis 用来把粗糙的小想法尽快变成能试的东西：脚本、自动化、发布辅助，以及工作室自己的小系统。</p>
-      <p><a href="https://github.com/Guesswhat-Studio/Opsis">Repository</a></p>
-      <p><code>Shell</code> <code>automation</code> <code>experiments</code></p>
+      <a href="https://github.com/Guesswhat-Studio/Skills-as-Docs">
+        <img src="/profile/assets/skilldocs-preview.svg" alt="Agent SkillDocs preview" width="100%" />
+      </a>
+      <h3><a href="https://github.com/Guesswhat-Studio/Skills-as-Docs">Roll 03 · Agent SkillDocs</a></h3>
+      <p><strong>Manage Agent Skills like docs. Distribute them through Git.</strong><br /><strong>像管理文档一样管理 Agent Skills，像分发代码一样分发给 AI agents。</strong></p>
+      <p>Agent SkillDocs is a docs-native, Git-backed workflow for turning team playbooks and repeated AI instructions into installable agent skills.</p>
+      <p>Agent SkillDocs 把团队流程、SOP 和反复使用的 AI 指令变成可审查、可版本化、可安装的 agent skills。</p>
+      <p>
+        <a href="https://github.com/Guesswhat-Studio/Skills-as-Docs">Repository</a>
+        ·
+        <a href="https://github.com/Guesswhat-Studio/Skills-as-Docs/blob/main/PLAN.md">Plan</a>
+      </p>
+      <p><code>SKILL.md</code> <code>Markdown</code> <code>Git</code> <code>docs-native</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Roll 04 · Future Games</h3>
-      <p><strong>The studio is still moving toward games.</strong><br /><strong>我们仍然在向游戏前进。</strong></p>
-      <p>Until the first game lands, the public work here tests interaction ideas, rituals, systems, narrative texture, and design judgment.</p>
-      <p>在第一款游戏出现之前，这里的公开项目会继续测试交互想法、使用仪式、系统结构、叙事质感和设计判断。</p>
-      <p><a href="https://github.com/orgs/Guesswhat-Studio/repositories">Browse repositories</a></p>
-      <p><code>indie games</code> <code>playful systems</code> <code>good weird ideas</code></p>
+      <img src="/profile/assets/games-tbd-preview.svg" alt="Private game prototypes preview" width="100%" />
+      <h3>Roll 04 · Games TBD</h3>
+      <p><strong>The game heart is still here. The games are just not ready yet.</strong><br /><strong>做游戏的心还在，只是作品还没到能公开的那一步。</strong></p>
+      <p><strong>Silk Road</strong>: a hard logic route-planning strategy sim about building a living trade network under no-crossing topology pressure.</p>
+      <p><strong>丝绸之路</strong>：在路线不交叉的拓扑压力下，编织跨文明贸易网络的硬核逻辑策略经营原型。</p>
+      <p><strong>Animal Café</strong>: a cozy idle café game about animal staff, team synergies, seating puzzles, and gentle long-term progression.</p>
+      <p><strong>Animal Café</strong>：关于动物员工、团队协同、座位 puzzle 和长期成长的温馨放置经营原型。</p>
+      <p><code>private prototypes</code> <code>Godot</code> <code>TBD</code> <code>still rolling</code></p>
     </td>
   </tr>
 </table>
@@ -119,6 +128,7 @@ The studio is founder-led and mostly founder-maintained, so the work stays perso
 ## Connect · 联系
 
 - Explore the studio: <https://github.com/Guesswhat-Studio>
+- Read Agent SkillDocs: <https://github.com/Guesswhat-Studio/Skills-as-Docs>
 - Support the maintainer: <https://github.com/sponsors/yuyangxueed>
 - Follow Linnet discussions: <https://github.com/Guesswhat-Studio/Linnet/discussions>
 - Follow Calabash discussions: <https://github.com/Guesswhat-Studio/Calabash/discussions>
