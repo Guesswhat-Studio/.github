@@ -28,9 +28,9 @@ The first public releases happen to be tools. That is not a detour. Some ideas b
 
 我们最先公开的作品碰巧是工具，但这不是偏航。有些灵感会长成游戏，有些会长成工具，还有一些会停在两者之间。我们先相信火花，再用审美和设计把它做成形。
 
-The studio is founder-led and mostly founder-maintained, so the work stays personal, opinionated, and close to actual use.
+The studio is founder-led and mostly founder-maintained by [@yuyangxueed](https://github.com/yuyangxueed), so the work stays personal, opinionated, and close to actual use.
 
-工作室由创始人主导并主要维护，因此作品会保持个人、明确、有取舍，也贴近真实使用。
+工作室由创始人 [@yuyangxueed](https://github.com/yuyangxueed) 主导并主要维护，因此作品会保持个人、明确、有取舍，也贴近真实使用。
 
 ## Now Rolling · 正在掷出
 
@@ -38,7 +38,7 @@ The studio is founder-led and mostly founder-maintained, so the work stays perso
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Guesswhat-Studio/Linnet">
-        <img src="https://raw.githubusercontent.com/Guesswhat-Studio/Linnet/main/assets/hero.png" alt="Linnet dashboard preview" width="100%" />
+        <img src="https://raw.githubusercontent.com/Guesswhat-Studio/Linnet/main/assets/teaser.gif" alt="Linnet animated teaser preview" width="100%" />
       </a>
       <h3><a href="https://github.com/Guesswhat-Studio/Linnet">Roll 01 · Linnet</a></h3>
       <p><strong>A daily signal ritual for curious people.</strong><br /><strong>给好奇心准备的晨间信号仪式。</strong></p>
