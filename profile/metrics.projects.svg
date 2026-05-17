@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Guesswhat Studio featured projects metrics placeholder</title>
+  <desc id="desc">This placeholder is replaced by lowlighter metrics after the GitHub Actions workflow runs.</desc>
+  <rect width="1000" height="300" rx="16" fill="#f6f8fa"/>
+  <rect x="24" y="24" width="952" height="252" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="64" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#24292f">Featured project cards</text>
+  <text x="64" y="134" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#57606a">Metrics will render Linnet, Calabash, and Opsis here.</text>
+  <text x="64" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">Until then, the README project table above remains fully clickable.</text>
+  <text x="64" y="236" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#6e7781">Run .github/workflows/metrics.yml with METRICS_TOKEN configured.</text>
+</svg>

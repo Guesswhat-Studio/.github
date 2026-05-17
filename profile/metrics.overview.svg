@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Guesswhat Studio metrics overview placeholder</title>
+  <desc id="desc">This placeholder is replaced by lowlighter metrics after the GitHub Actions workflow runs.</desc>
+  <rect width="1000" height="320" rx="16" fill="#f6f8fa"/>
+  <rect x="24" y="24" width="952" height="272" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="64" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#24292f">Guesswhat Studio metrics</text>
+  <text x="64" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#57606a">The overview panel will appear here after the Metrics workflow renders.</text>
+  <text x="64" y="184" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">Expected sections: organization activity, repositories, language mix, and generated metadata.</text>
+  <text x="64" y="242" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#6e7781">Run .github/workflows/metrics.yml with METRICS_TOKEN configured.</text>
+</svg>
