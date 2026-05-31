@@ -17,6 +17,8 @@
   ·
   <a href="https://github.com/Guesswhat-Studio/Skills-as-Docs">SkillDocs</a>
   ·
+  <a href="https://github.com/Guesswhat-Studio/xhs-collection">XHS Collection</a>
+  ·
   <a href="https://github.com/sponsors/yuyangxueed">Support</a>
 </p>
 
@@ -88,8 +90,30 @@ The studio is founder-led and mostly founder-maintained by [@yuyangxueed](https:
       <p><code>SKILL.md</code> <code>Markdown</code> <code>Git</code> <code>docs-native</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/Guesswhat-Studio/xhs-collection">
+        <img src="/profile/assets/xhs-collection-preview.png" alt="XHS Collection preview" width="100%" />
+      </a>
+      <h3><a href="https://github.com/Guesswhat-Studio/xhs-collection">Roll 04 · XHS Collection</a></h3>
+      <p><strong>A local-first desktop review desk for Xiaohongshu saves.</strong><br /><strong>一个面向小红书收藏的本地优先桌面整理台。</strong></p>
+      <p>XHS Collection syncs saved posts, downloads media, reviews status, organizes categories and tags, and keeps the archive on your own computer.</p>
+      <p>XHS Collection 支持收藏同步、媒体下载、复查状态、分类标签和 AI 自动整理，数据默认留在自己的电脑里。</p>
+      <p>
+        <a href="https://github.com/Guesswhat-Studio/xhs-collection">Repository</a>
+        ·
+        <a href="https://github.com/Guesswhat-Studio/xhs-collection/releases">Releases</a>
+      </p>
+      <p><code>Tauri v2</code> <code>Rust</code> <code>React</code> <code>SQLite</code> <code>local-first</code></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="42%" valign="top">
       <img src="/profile/assets/games-tbd-preview.svg" alt="Private game prototypes preview" width="100%" />
-      <h3>Roll 04 · Games TBD</h3>
+    </td>
+    <td width="58%" valign="top">
+      <h3>Games TBD · 游戏原型 TBD</h3>
       <p><strong>The game heart is still here. The games are just not ready yet.</strong><br /><strong>做游戏的心还在，只是作品还没到能公开的那一步。</strong></p>
       <p><strong>Silk Road</strong>: a hard logic route-planning strategy sim about building a living trade network under no-crossing topology pressure.</p>
       <p><strong>丝绸之路</strong>：在路线不交叉的拓扑压力下，编织跨文明贸易网络的硬核逻辑策略经营原型。</p>
@@ -129,6 +153,7 @@ The studio is founder-led and mostly founder-maintained by [@yuyangxueed](https:
 
 - Explore the studio: <https://github.com/Guesswhat-Studio>
 - Read Agent SkillDocs: <https://github.com/Guesswhat-Studio/Skills-as-Docs>
+- Try XHS Collection: <https://github.com/Guesswhat-Studio/xhs-collection>
 - Support the maintainer: <https://github.com/sponsors/yuyangxueed>
 - Follow Linnet discussions: <https://github.com/Guesswhat-Studio/Linnet/discussions>
 - Follow Calabash discussions: <https://github.com/Guesswhat-Studio/Calabash/discussions>

@@ -48,5 +48,5 @@ jobs:
           config_display: columns
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: Linnet, Calabash, Skills-as-Docs
+          plugin_repositories_featured: Linnet, Calabash, Skills-as-Docs, xhs-collection
           plugin_repositories_order: featured
